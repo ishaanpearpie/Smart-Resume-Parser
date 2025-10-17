@@ -21,15 +21,7 @@
   font-weight: 700;
   color: #1e293b;
   margin-bottom: 0.5rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-}
-
-.spark-icon {
-  font-size: 2rem;
-  color: #14b8a6;
+  text-align: center;
 }
 
 .subtitle {

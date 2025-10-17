@@ -127,7 +127,6 @@ function App() {
         {/* Header */}
         <div className="header">
           <div className="title">
-            <span className="spark-icon">✨</span>
             Smart Resume Screener
           </div>
           <p className="subtitle">
